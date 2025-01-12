@@ -53,6 +53,29 @@
     bottom: -2.3%;
   }
 
+/* header style  */
+.header{
+    background: rgb(198, 228, 214); 
+    border-radius: 24px;
+}
+
+.header-2{
+
+    width: 622px;
+    height: 201px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 16;
+    padding: 0px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    text-align: left;
+    letter-spacing: 0%;
+    color: rgb(14, 14, 14);
+}
 /* nav styles */
 nav{
    
